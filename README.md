@@ -4,6 +4,6 @@
 
 As you venture through this repository, you’ll find:
 
-    Questions documented with findings, implementation, and some parallel real-world use cases.
+    Questions documented with findings accompanied by findings, implementations, and relevant real-world use cases.
     The how's, what's and why's. 
-    Breaking it down into smaller components, identifying key patterns or algorithms that may apply and new concepts learned.
+    Highlighting significant patterns or algorithms that may be applicable, as well as newly acquired concepts.
